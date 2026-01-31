@@ -1,0 +1,11 @@
+Age,Gender,Sleep_Duration,Physical_Activity_Level,Stress_Level,BMI_Category,Heart_Rate,Daily_Steps,Sleep_Quality
+25,Male,7,60,3,Normal,72,8000,Good
+40,Female,5,30,8,Overweight,85,4000,Poor
+30,Male,6,45,5,Normal,76,6000,Average
+22,Female,8,70,2,Normal,68,10000,Good
+50,Male,4,20,9,Obese,90,3000,Poor
+28,Female,7,65,3,Normal,70,8500,Good
+35,Male,6,40,6,Overweight,80,5500,Average
+45,Female,5,25,7,Obese,88,3500,Poor
+29,Male,7,55,4,Normal,74,7800,Good
+33,Female,6,50,5,Normal,75,7200,Average
